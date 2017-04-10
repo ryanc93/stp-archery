@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size:16pt;
+  font-family: "arial", tahoma, sans-serif;
+  color: #000000;
+}
+
+body {
+  background-color: #FFFFFF;
+  border: 15px solid gray;
+}
+
+.main-container {
+  width: 100%;
+  padding: 0;
+}
+
+.image-logo {
+  border:7px solid #000000;;
+}
+
+.website-header {
+  padding-left: 1rem;
+  background-color: #000000;
+}
+
+.website-title {
+  color: #FFFFFF;
+  font-size: 32px;
+}
+
+li {
+  padding: 0px 10px;
+  word-wrap: normal;
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 16px;
+  padding-left:30px;
+  padding-right: 30px;
+}
+
+
+.imageContainer {
+  float: left;
+  border: 15px solid #FFFFFF;
+  padding-left:15px;
+}
+
+footer {
+  background-color: #000000;
+  color: #FFFFFF;
+}
